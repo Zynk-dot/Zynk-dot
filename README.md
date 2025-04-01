@@ -29,8 +29,8 @@ I make tools that whisper in terminals, speak with your voice, and sometimes… 
 ---
 
 ### 📬 Talk to me
-I don’t bite — unless you’re UDP traffic.
-Discord: [`some1lonely`](https://discord.com/users/some1lonely)  
+I don’t bite — unless you’re UDP traffic.  
+Discord: [`some1lonely`](https://discord.com/users/some1lonely)  (yeah I'm pretty lonely mind adding a friend?)
 > clone me, fork me — I’m always building something new.
 
 ---
